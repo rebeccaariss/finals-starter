@@ -4,7 +4,7 @@
 - As a user, on the main page I want to see information about what the app does & a preview of the organizations registered
 - As a user, I want to click the login button to go to the login page
 - As a donor, I want to be taken to my main feed when I log in
-- As an organization, I want to me taken to my organization's dashboard when I log in
+- As an organization, I want to be taken to my organization's dashboard when I log in
 
 
 ## Donor
@@ -43,8 +43,8 @@
 ## Organization
 ### Account Creation
 - As a user, on the main page I want to see the option to create an organization account
-- As a user, I want to create an account with my organization's relevant information (name, address, contact info, bio, category, photo, email, password)
-- As a user, after I click "confirm" on the account creation page, I want to be taken to a page where I can begin adding requests
+- As a user, I want to create an account with my organization's relevant information (name, address, contact info, bio, website, category, photo, email, password)
+- As a user, after I click "confirm" on the account creation page, I want to be taken to a page where I can begin adding requests --- or to profile to confirm details saved, and can add requests to "table"/checklist from there
 
 ### Requests Creation
 - As a user, I want to see a button to create a new request from any page (on the nav bar)
@@ -54,3 +54,6 @@
 ### Dashboard
 
 ### Social Options
+
+Projects description/call to action
+Secondary confirmation process for org? User says they've fulfilled, org can post the final confirmation and send out a thank you at that time or something
